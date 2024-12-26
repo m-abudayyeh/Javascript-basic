@@ -34,10 +34,3 @@ Read two numbers from the user and display the result of dividing the first numb
 ### Q6: Display the Sum of Two Numbers
 Display the sum of two predefined numbers.
 
-## How to Use
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Open the HTML file in your browser to test the exercises.
